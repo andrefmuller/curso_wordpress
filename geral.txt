@@ -1,0 +1,3 @@
+Para descobrir com quais ferramentas um site foi criado.
+
+https://builtwith.com/
